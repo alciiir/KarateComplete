@@ -1,0 +1,9 @@
+nombreCaso2,name,Vname,job,Vjob
+name vacio,name,,job,"QA"
+name nulo,name,null,job,"QA"
+name 3 letras,name,"sol",job,"QA"
+sin campo name,,,job,"QA"
+job vacio,name,"alejandro",job,""
+job nulo,name,"ale",job,null
+job 3 letras,name,"pedro",job,"QAs"
+sin campo job,name,"carlos",,""
